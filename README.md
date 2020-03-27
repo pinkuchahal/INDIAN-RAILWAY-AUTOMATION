@@ -18,4 +18,16 @@ all trains (and all passengers) are going to the same destination (i.e. any pass
  
 possible for several passengers to have called station_wait_for_train, and for that function to have returned for each of the passengers, before any of the passengers calls station_on_board). 
  -waiting 
- I made the necessary changes in my solution for more understanding.
+# to run the program
+
+
+First, you need to clone the code into your VM (virtual machine) or local machine: ==> https://github.com/P-blaze/Indian-rail-automation-using-Threads
+
+*Then compile the code by runnig ==>
+
+make
+*now to run the program use ==>
+
+./run
+
+
