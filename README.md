@@ -21,8 +21,7 @@ possible for several passengers to have called station_wait_for_train, and for t
 # to run the program
 
 
-First, you need to clone the code into your VM (virtual machine) or local machine: ==> https://github.com/P-blaze/Indian-rail-automation-using-Threads
-
+First, you need to clone the code into your VM (virtual machine) or local machine: ==> https://github.com/pinkuchahal/INDIAN-RAILWAY-AUTOMATION
 *Then compile the code by runnig ==>
 
 make
